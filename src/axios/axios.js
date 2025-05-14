@@ -6,12 +6,15 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'https://eea9-2800-bf0-826a-1201-1e1b-d47d-48b5-bef8.ngrok-free.app/api/',
+  baseURL: 'https://public-lies-act.loca.lt/api/',
   // baseURL: 'http://192.168.100.48:81/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
     'Accept': 'application/json',
+    // 'X-Requested-With': 'XMLHttpRequest',
+    'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
+    'User-Agent': 'Custom-Agent', 
   },
 });
 
