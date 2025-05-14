@@ -6,7 +6,7 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'http://127.0.0.1:8000/api/',
+  baseURL: 'https://eea9-2800-bf0-826a-1201-1e1b-d47d-48b5-bef8.ngrok-free.app/api/',
   // baseURL: 'http://192.168.100.48:81/api',
   timeout: 10000,
   headers: {
