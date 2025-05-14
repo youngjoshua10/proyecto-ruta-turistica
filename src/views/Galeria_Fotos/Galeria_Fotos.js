@@ -69,7 +69,7 @@ export default {
                 // },
                 {
                     id: 3,
-                    src: new URL('@/assets/galeria_fotos/municipio_guayaquil/imagen3.jpg', import.meta.url).href,
+                    src: new URL('@/assets/galeria_fotos/municipio_guayaquil/municipionuevo.jpg', import.meta.url).href,
                     alt: 'Imagen 3',
                     texto: 'Review'
                 },
@@ -84,13 +84,13 @@ export default {
             imagenes4: [
                 {
                     id: 1,
-                    src: new URL('@/assets/galeria_fotos/plaza_administracion/imagen1.jpeg', import.meta.url).href,
+                    src: new URL('@/assets/galeria_fotos/plaza_administracion/plazanuevo.jpg', import.meta.url).href,
                     alt: 'Imagen 1',
                     texto: 'Review'
                 },
                 {
                     id: 2,
-                    src: new URL('@/assets/galeria_fotos/plaza_administracion/imagen2.jpg', import.meta.url).href, alt: 'Imagen 2',
+                    src: new URL('@/assets/galeria_fotos/plaza_administracion/plazanuevo2.jpg', import.meta.url).href, alt: 'Imagen 2',
                     texto: 'Review'
                 },
                 // {
@@ -136,7 +136,7 @@ export default {
             imagenes6: [
                 {
                     id: 1,
-                    src: new URL('@/assets/galeria_fotos/cementerio_general/imagen1.jpeg', import.meta.url).href,
+                    src: new URL('@/assets/galeria_fotos/cementerio_general/cementerionuevo2.jpg', import.meta.url).href,
                     alt: 'Imagen 1',
                     texto: 'Review'
                 },
@@ -147,7 +147,7 @@ export default {
                 },
                 {
                     id: 3,
-                    src: new URL('@/assets/galeria_fotos/cementerio_general/imagen3.jpg', import.meta.url).href,
+                    src: new URL('@/assets/galeria_fotos/cementerio_general/cementerionuevo.jpg', import.meta.url).href,
                     alt: 'Imagen 3',
                     texto: 'Review'
                 },

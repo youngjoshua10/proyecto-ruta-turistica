@@ -41,14 +41,14 @@ export default {
             },
             {
                 id: 5,
-                src: new URL('@/assets/galeria_fotos/municipio_guayaquil/imagen3.jpg', import.meta.url).href,
+                src: new URL('@/assets/galeria_fotos/municipio_guayaquil/municipionuevo.jpg', import.meta.url).href,
                 alt: 'Imagen 5',
                 route: '/Index/Galeria_Fotos',
                 texto: 'Municipality of the Mayor´s Office of Guayaquil - Olmedo´s Armchair'
             },
             {
                 id: 6,
-                src: new URL('@/assets/galeria_fotos/plaza_administracion/imagen1.jpeg', import.meta.url).href,
+                src: new URL('@/assets/galeria_fotos/plaza_administracion/plazanuevo.jpg', import.meta.url).href,
                 alt: 'Imagen 6',
                 route: '/Index/Galeria_Fotos',
                 texto: 'Administration Position - Fragua Vulcano'
@@ -62,7 +62,7 @@ export default {
             },
             {
                 id: 8,
-                src: new URL('@/assets/galeria_fotos/cementerio_general/imagen1.jpeg', import.meta.url).href,
+                src: new URL('@/assets/galeria_fotos/cementerio_general/tumbaolmedo.jpg', import.meta.url).href,
                 alt: 'Imagen 8',
                 route: '/Index/Galeria_Fotos',
                 texto: 'General Cemetery of Guayaquil - Olmedo´s Tomb'
