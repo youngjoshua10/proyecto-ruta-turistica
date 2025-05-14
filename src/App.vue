@@ -135,7 +135,7 @@
         <v-card-actions>
           <v-btn color="error" size="small" variant="flat" prepend-icon="mdi-window-close"
             @click="dialogCerrarSesion = false">{{ $t('Cancel') }}</v-btn>
-          <v-btn color="success" size="small" variant="flat" prepend-icon="mdi-hand-okay" :loading="loading"
+          <v-btn color="#0230ba" size="small" variant="flat" prepend-icon="mdi-hand-okay" :loading="loading"
             @click="logout()">{{ $t('Confirm') }}</v-btn>
         </v-card-actions>
       </v-card>
@@ -152,6 +152,7 @@
                 <v-list-item-content class="pl-2">
                   <!-- <pre>{{ authStore }}</pre> -->
                   <div class="d-flex align-center">
+                    
                     <v-avatar :image="authStore.getFotoPath" size="50" style="cursor: pointer"  @click="dialogFoto = true"/>
                     <v-col cols="12">
                       <v-list-item-title v-if="!authStore.getToken">{{ $t('Login now') }}</v-list-item-title>
@@ -213,12 +214,22 @@
             </v-list-item>
 
             <v-divider></v-divider>
-
+                
             <v-list density="compact" nav>
               <v-list-item v-for="item in menuItems" :key="item.value" :prepend-icon="item.icon" :title="item.title"
                 @click="navigate(item.route)" :class="{ active: $route.path === item.route }">
               </v-list-item>
+              <v-divider></v-divider>
+              <v-list-item prepend-icon="mdi-arrow-left-drop-circle" @click.stop="drawer = !drawer">
+                <!-- <v-btn class="mt-3 mx-3" color="#000"  variant="text" prepend-icon="mdi-arrow-left-drop-circle" @click.stop="drawer = !drawer">
+                  
+                </v-btn> -->
+                {{ $t('Menu') }}
+              </v-list-item>
+
             </v-list>
+
+            
           </v-navigation-drawer>
 
 
@@ -446,6 +457,13 @@ export default {
 </script>
 
 <style>
+  body {
+    background-color: #232323 !important;
+  }
+  html {
+    background-color: #232323 !important;
+  }
+
 .main-container {
   display: flex;
   flex-direction: column;

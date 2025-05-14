@@ -69,7 +69,7 @@ export default {
             movilidad_discapacidad: 'N/A',
 
             metodo_pago_efectivo_bo: true,
-            efectivo: '$20',
+            efectivo: '$9.99',
 
             metodo_pago_tarjeta_bo: false,
             numero_tarjeta: null,
@@ -84,7 +84,7 @@ export default {
         'datos_usuario.numero_personas': {
             immediate: true,
             handler(nuevaCantidad) {
-                const base = 20;
+                const base = 9.99;
                 const total = base * (1 + Number(nuevaCantidad)); // 1 persona base + acompañantes
                 this.datos_usuario.efectivo = `$${total}`;
             }
@@ -125,7 +125,7 @@ export default {
                 movilidad_discapacidad: 'N/A',
 
                 metodo_pago_efectivo_bo: true,
-                efectivo: '$20',
+                efectivo: '$9.99',
 
                 metodo_pago_tarjeta_bo: false,
                 numero_tarjeta: '',

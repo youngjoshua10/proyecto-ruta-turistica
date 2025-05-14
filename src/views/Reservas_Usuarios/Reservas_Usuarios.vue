@@ -365,7 +365,7 @@
                                 <span 
                                     style="color: #000000; 
                                     "> 
-                                    {{ $t('$20 per person, for each additional person added to the booking, the price will increase.') }}
+                                    {{ $t('$9.99 per person, for each additional person added to the booking, the price will increase.') }}
                                 </span>
                             </v-col>
 
