@@ -1,0 +1,213 @@
+{
+  "Welcome": "¡Bienvenido!",
+  "Change": "Cambiar",
+  "Idiom": "Idioma",
+  "select a language": "Selecciona un idioma",
+  "Settings": "Configuración",
+  "Menu": "Menú",
+  "Logout": "Cerrar sesión",
+  "Create Account": "Crear una cuenta",
+  "Personal Data": "Datos personales",
+  "Fill out the account creation form to be able to log in and browse the website": "Llene el formulario de creación de cuenta para poder iniciar sesión y navegar por la página web",
+  "Select a profile picture": "Seleccionar una foto de perfil",
+  "First name": "Primer nombre",
+  "Second name": "Segundo nombre",
+  "First surname": "Primer apellido",
+  "Second surname": "Segundo apellido",
+  "Number phone": "Número de teléfono",
+  "Date of birth": "Fecha de nacimiento",
+  "Sexual preference": "Orientación sexual",
+  "Man/Male": "Hombre/Masculino",
+  "Woman/Female": "Mujer/Femenino",
+  "Account details": "Datos de la cuenta",
+  "Email": "Correo electrónico",
+  "Password": "Contraseña",
+  "Confirm password": "Confirmar contraseña",
+  "Login": "Iniciar sesión",
+  "Enter credentials": "Ingresar credenciales",
+  "Exit": "Salir",
+  "Confirm Account Creation": "Confirmar creación de cuenta",
+  "To create the account, enter the 6 digits that were sent to the email registered": "Para crear la cuenta, introduzca los 6 digitos que se enviaron al correo registrado",
+  "Enter the 6 digits": "Introduzca los 6 dígitos",
+  "Cancel": "Cancelar",
+  "Send": "Enviar",
+  "Login now": "Inicia sesión ahora!",
+  
+  "Guayas like you have never seen it before": "Guayas como nunca antes lo habias visto",
+  "Review all the generalities, useful data, cultural information, demographics, and more to make your visit to Guayas more unforgettable.": "Revisa todas las generalidades, datos úiles, información cultural, datos demográficos y más para que tu visita al Guayas sea inolvidable.",
+  "TOURIST ROUTE": "RUTA TURISTICA",
+  "Review Route: From poet to patriot, the hero´s journey": "Revisar Ruta: De poeta a patriota, la ruta del héroe",
+  "Comments": "Comentarios",
+  "Comment": "Comentar",
+
+  "FROM POET TO PATRIOT: THE PATH OF A HERO": "DE POETA A PATRIOTA: LA RUTA DE UN HÉROE",
+  "Tourist Route About the Character: José Joaquín de Olmedo": "Ruta Turística Acerca del Personaje: José Joaquín de Olmedo",
+
+  "Failed to make request, log in first": "Error al realizar la solicitud, inicie sesión primero",
+  "Commented correctly": "Comentado correctamente",
+  "The comment field is required": "El campo de comentario es obligatorio",
+  "Home": "Inicio",
+
+  "Plaza Olmedo - Olmedo Monument": "Plaza Olmedo - Monumento a Olmedo",
+  "Municipal Museum - Works of Olmedo": "Museo Municipal - Obras de Olmedo",
+  "Municipality of the Mayor´s Office of Guayaquil - Olmedo´s Armchair": "Municipio de la Alcadía de Guayaquil - Sillon de Olmedo",
+  "Administration Position - Fragua Vulcano": "Plaza de administración - Fragua Vulcano",
+  "Centennial Park - Column of Heroes of October 9": "Parque Centenario - Columna de Próceres de 9 de octubre",
+  "General Cemetery of Guayaquil - Olmedo´s Tomb": "Cementerio General de Guayaquil - Tumba de Olmedo",
+
+  "Review": "Ver",
+  "Photo album of guayaquil, tourist places mentioned in the tourist route, enjoy the images taken in each of the localities, guayaquil as you have never seen it before!": "Álbum de fotos de guayaquil, lugares turisticos mencionados en la ruta turistica, disfruta de las imagenes tomadas en cada una de las localidades, guayaquil como nunca antes lo habias visto!",
+  "Photo Gallery": "Galería de fotos",
+
+  "Are you sure to log out?": "¿Estás seguro de cerrar sesión?",
+  "The session will be closed": "Se cerrará la sesión",
+  "Confirm": "Confirmar",
+
+  "Tourist route": "Ruta turistica",
+  "Reservations": "Reservaciones",
+
+  "Close": "Cerrar",
+  
+  "Are you sure you want to delete this comment?": "¿Estás seguro de eliminar este comentario?",
+  "The comment will be completely removed.": "El comentario se eliminará completamente",
+  "Comment deleted successfully": "Comentario borrado correctamente",
+  "Invalid ID": "ID no válido",
+
+  "Comment edited correctly": "Comentario editado correctamente",
+  "The comment cannot be obtained.": "No se puede obtener el comentario",
+
+  "Edit": "Editar",
+  "Delete": "Borrar",
+  "Edit comment": "Editar comentario",
+
+  "General settings": "Ajustes generales",
+
+  "Change language/idiom": "Cambio de lenguaje/idioma",
+  "Save": "Guardar",
+
+  "Change personal data": "Cambiar datos personales",
+  "User edited correctly": "Usuario editado correctamente",
+
+  "Edit personal data": "Editar datos personales",
+
+  "Account confirmation": "Confirmación de cuenta",
+  "Insert your current password to change personal details.": "Inserta tu contraseña actual para cambiar los datos personales",
+  "Current password": "Contraseña actual",
+
+  "Validated data": "Datos validados",
+
+  "Change password": "Cambiar contraseña",
+  "Correct password. Validation complete.": "Contraseña correcta. Validación completa.",
+
+  "Password edited successfully": "Contraseña editada con éxito",
+  "Forgot your account password? Start the recovery process.": "¿Olvidaste la contraseña de tu cuenta? Comienza el proceso de recuperación.",
+  "Recover account": "Recuperar cuenta",
+  "Enter your email address to start the recovery process.": "Ingresa tu correo electrónico para iniciar el proceso de recuperación",
+  "Code sent, please check your email.": "Código enviado, revise su correo electrónico.",
+  "Correct code, validation completed.": "Código correcto, validación completada.",
+
+  "Email not found": "Correo no encontrado.",
+
+  "Incorrect code": "Código incorrecto",
+
+  "User not found": "Usuario no encontrado",
+  "Incorrect password": "Contraseña incorrecta",
+
+  "Review all the generalities, useful data, cultural information, demographics and more to make your visit to Guayas more unforgettable.": "Revisa todas las generalidades, datos útiles, información cultural, demografía y más para hacer que tu visita a Guayas sea más inolvidable.",
+
+  "View completed reservations": "Ver reservas completadas",
+  "Reservation in the name of:": "Reservación a nombre de:",
+
+  "ID number": "Número de cédula",
+
+  "Contact data": "Datos de contácto",
+  "Reservation data": "Datos de la reserva",
+  "Tour date": "Fecha del tour",
+  "Start time": "Hora de inicio",
+  "Type of route:": "Tipo de ruta:",
+  "preferred language": "idioma de preferencia",
+  "Number of companions": "Número de acompañantes",
+  "Full name of each companion": "Nombre y apellido de cada acompañante",
+  "Example: Saul Ramirez, Joshua Crespin, etc.": "Ejemplo: Saul Ramirez, Joshua Crespin, etc",
+  "Reduced mobility or disabilities": "Movilidad reducida o discapacidades",
+  "Write down any mobility issues or disabilities of any member.": "Escriba cualquier problema con la movilidad o discapacidad de algún integrante",
+  "Cash": "Efectivo",
+  "Credit card": "Tarjeta de crédito",
+  "Payment method": "Método de pago",
+  "Cost of the reservation:": "Costo de la reservación:",
+  "$20 per person, for each additional person added to the booking, the price will increase.": "$20 dolares por persona, por cada persona añadida en el registro de reserva, se aumentará el precio.",
+  "It will be paid at the time of the tour.": "Se pagará al momento del tour",
+  "Credit/Debit Card": "Tarjeta Crédito/Débito",
+  "Card number": "Número de tarjeta",
+  "Due date": "Fecha de vencimiento",
+  "Security code, example: 573": "Código de seguridad, ejemplo: 573",
+  "Reset form": "Resetear formulario",
+  "Save reservation": "Guardar reserva",
+  "Review the filled fields carefully; if you are sure of the information you provided, save the reservation.": "Revisa bien los campos llenados, si estas seguro de la información que proporcionaste, guarda la reserva",
+  "Completed reservations": "Reservaciones completadas",
+  "Cancel reservation": "Eliminar reservación",
+  "The reservation will be canceled permanently.": "Se cancelará la reservación permanentemente",
+  "Payment data": "Datos de pago",
+  "Amount to be canceled/canceled:": "Valor a cancelar/cancelado:",
+
+  "Make a reservation for this tourist route": "Realizar una reservación a esta ruta turistica",
+  "Cultural and Heritage Tour Route of Guayaquil": "Ruta turistica ´Guayaquil Cultural y patrimonial´",
+  "Estimated total duration: 2h30 min to 3 hours": "Duración total estimada: 2h30 min a 3 horas",
+  "Type of tour: Guided walking (With accessibility at key sections)": "Tipo de recorrido: Peatonal guiado (Con accesdibilidad en tramos clave)",
+  "Theme: Life, legacy, and influence of José Joaquín de Olmedo": "Temática: Vida, legado e influencia de José Joaquín de Olmedo",
+  "Segments: Seniors / Young people and adolescents / Children": "Segmentos: Adultos mayores / Jovenes y adolescentes / Niños",
+  "First journey": "Primer recorrido",
+
+  "Olmedo Plaza is the ideal starting point for this historical route, as it pays tribute to one of the most emblematic figures of Guayaquil: José Joaquín de Olmedo. The monument located in the center of the plaza is a symbolic work of art that represents his role as a poet, politician, and key figure in the city´s independence. Its strategic location and accessibility allow visitors to gather for a contextualized introduction to his life and times.In addition to its aesthetic value, the plaza allows for an emotional connection to the character. Being an open and tree-filled space, it facilitates group interaction and invites reflection on the civic values that Olmedo defended. It is a place where one can begin the narrative with symbolic strength, framing the journey as a cultural and educational experience that connects history and the urban environment.": "La Plaza Olmedo es el punto ideal para iniciar esta ruta histórica, pues rinde homenaje a uno de los personajes más emblemáticos de Guayaquil: José Joaquín de Olmedo. El monumento ubicado en el centro de la plaza es una obra de arte simbólica que representa su rol como poeta, político y figura clave en la independencia de la ciudad. Su ubicación estratégica y accesibilidad permiten congregar a los visitantes para una introducción contextualizada sobre su vida y época. Además de su valor estético, la plaza permite una conexión emocional con el personaje. Al ser un espacio abierto y arbolado, facilita la interacción grupal e invita a reflexionar sobre los valores cívicos que Olmedo defendió. Es un lugar donde se puede iniciar el relato con fuerza simbólica, y enmarcar el recorrido como una experiencia cultural y educativa que une historia y entorno urbano.",
+  "Objective of the activity: Introduce the figure of Olmedo from a symbolic perspective.": "Objetivo de actividad: Introducir la figura de Olmedo desde lo simbólico.",
+  
+  "Older adults:": "Adultos mayores:",
+  "Children:": "Niños:",
+  "Youth:": "Jóvenes:",
+
+  "´Reciting Olmedo´ - An open mic space where visitors can recite poems of the hero in a relaxed environment with instrumental music.": "´Recitando a Olmedo´ - Espacio de micrófono abierto donde los visitantes pueden recitar poemas del prócer en un ambiente relajado con música instrumental.",
+  "´Paint a hero´ - An artistic activity where they draw Olmedo or the monument and participate in a mobile gallery of patriotic art.": "´Pinta a un héroe´ - Actividad artística en la que dibujan a Olmedo o el monumento y participan en una galería móvil de arte patriótico.",
+  "´QR Code: Olmedo Mission´ - Interactive game with questions about Olmedo´s life; those who complete the mission receive a collectible sticker of the route.": "´Código QR: Misión Olmedo´ - Juego interactivo con preguntas sobre la vida de Olmedo; quienes completan la misión obtienen un sticker coleccionable de la ruta.",
+
+  "Second journey": "Segundo recorrido",
+  "Municipal Museum - Works of Olmedo, portraits and personal objects": "Museo Municipal - Obras de Olmedo, retratos y objetos personales",
+  "The Municipal Museum of Guayaquil is a key cultural space for understanding the tangible and intellectual legacy of José Joaquín de Olmedo. Its rooms showcase a valuable collection of historical documents, portraits, letters, and objects that belonged to the national hero. This museum allows visitors to delve into the political, social, and artistic context of the 19th century, with a special emphasis on Olmedo´s thinking as a humanist and creator. Its inclusion in the route enriches the experience by connecting visitors with material evidence of history. It is an ideal space for different segments of the audience to observe, touch (when permitted), and interpret original elements from the era, elevating the educational level of the tour. Additionally, it has suitable infrastructure to host groups, educational activities, and themed visits.": "El Museo Municipal de Guayaquil es un espacio cultural clave para comprender el legado tangible e intelectual de José Joaquín de Olmedo. Sus salas exhiben una valiosa colección de documentos históricos, retratos, cartas y objetos que pertenecieron al prócer. Este museo permite a los visitantes adentrarse en el contexto político, social y artístico del siglo XIX, con especial énfasis en el pensamiento de Olmedo como humanista y creador. Su inclusión en la ruta permite enriquecer la experiencia al conectar al visitante con evidencias materiales de la historia. Es un espacio propicio para que los distintos segmentos de público puedan observar, tocar (cuando es permitido) e interpretar elementos originales de la época, elevando el nivel educativo del recorrido. Además, cuenta con infraestructura adecuada para recibir grupos, actividades educativas y visitas temáticas.",
+  "Objective of the activity: Explore his political, literary, and personal legacy.": "Objetivo de actividad: Explorar su legado político, literario y personal.",
+  "´Coffee with History´ - Guided dialogue in a room with a local historian, accompanied by traditional coffee and old photographs.": "´Café con historia´ - Diálogo guiado en una sala con una historiadora local, acompañado de café tradicional y fotos antiguas.",
+  "´Detectives of the past´ - With a magnifying glass, children must find marked objects and mark their sheet.": "´Detectives del pasado´ - Con una lupa, los niños deben encontrar objetos señalados y marcar su cartilla.",
+  "´Vintage photoreto´ - Using old filters, you must recreate a photo in the style of the 19th century and upload it with a hashtag.": "´Fotoreto vintage´ - Usando filtros antiguos, deben recrear una foto al estilo del siglo XIX y subirla con un hashtag.",
+
+  "Third journey": "Tercer recorrido",
+  "The Municipal Palace is one of the most emblematic buildings in the historic center of Guayaquil. There is the famous ´Sillón de Olmedo´, symbol of civil power and leadership of the hero when he was president of the government of Guayaquil after independence. This historic piece of furniture is not just a decoration, but a symbolic representation of his vision for autonomy, institutionalism, and development for the city. Including this site allows for a connection between Olmedo´s figure and the public function and political structure of his time. It is a significant stop to reflect on the exercise of power, political decision-making, and the legacy he left in the formation of the first independent governments. Its heritage value and its presence within an active institution make this visit a lively and relevant experience.": "El Palacio Municipal es uno de los edificios más emblemáticos del centro histórico de Guayaquil. Allí se encuentra el famoso “Sillón de Olmedo”, símbolo del poder civil y liderazgo del prócer cuando fue presidente del gobierno de Guayaquil tras la independencia. Este mueble histórico no es solo una pieza de decoración, sino una representación simbólica de su visión de autonomía, institucionalidad y desarrollo para la ciudad. Incluir este sitio permite conectar la figura de Olmedo con la función pública y la estructura política de su tiempo. Es una parada significativa para reflexionar sobre el ejercicio del poder, la toma de decisiones políticas, y el legado que dejó en la formación de los primeros gobiernos independientes. Su valor patrimonial y su presencia dentro de una institución activa hacen de esta visita una experiencia viva y relevante.",
+  "Activity objective: Reflect on leadership and historical decisions.": "Objetivo de actividad: Reflexionar sobre liderazgo y decisiones históricas.",
+  "´Dialogue in the Armchair´ - Participants take turns sitting down and saying a phrase they would direct to Guayaquil if they were leaders.": "´Diálogo en el sillón´ - Los participantes se turnan para sentarse y decir una frase que dirigirían a Guayaquil si fueran líderes.",
+  "´Mini council of children´ - Activity with hats and capes in which they simulate being mayors for a day.": "´Mini concejo de niños´ - Actividad con sombreros y capas en la que simulan ser alcaldes por un día.",
+  "´#SillónChallenge´ - Photo challenge with a leader´s pose and a motivational message featuring a viral hashtag.": "´#SillónChallenge´ - Reto de foto con postura de líder y mensaje motivador con hashtag viral.",
+
+  "Fourth journey": "Cuarto recorrido",
+  "The Forge of Vulcan is a sculpture of deep symbolic value located in the Administration Plaza. It represents the heroes of independence shaping freedom in the fire of struggle. This monumental work honors those, like Olmedo, who forged republican and emancipatory ideals. It is an essential stop to discuss the processes of Latin American independence and how public art communicates historical memory.This site is also an excellent connection point between the artistic and the patriotic, ideal for interactive activities. The urban environment makes it accessible, and the aesthetic quality of the sculpture invites active reflection on civic values. The figure of Olmedo as a promoter of freedom is reinforced in this space.": "La Fragua de Vulcano es una escultura de profundo valor simbólico ubicada en la Plaza de la Administración. Representa a los próceres de la independencia moldeando la libertad en el fuego de la lucha. Esta obra monumental honra a quienes, como Olmedo, forjaron los ideales republicanos y emancipadores. Es una parada esencial para hablar de los procesos de independencia latinoamericanos y de cómo el arte público comunica memoria histórica. Este sitio es además un excelente punto de conexión entre lo artístico y lo patriótico, ideal para actividades interactivas. El entorno urbano lo hace accesible, y la calidad estética de la escultura invita a una reflexión activa sobre los valores cívicos. La figura de Olmedo como impulsor de la libertad se refuerza en este espacio.",
+  "Activity objective: Visualize the collective effort for freedom.": "Objetivo de actividad: Visualizar el esfuerzo colectivo por la libertad.",
+  "´Forging the homeland´ - A brief writing workshop where they write a message to future generations on burned paper (aged effect).": "´Forjando la patria´ - Taller breve de escritura donde escriben en papel quemado (efecto envejecido) un mensaje a las futuras generaciones.",
+  "´Puzzle of Heroes´ - A game to assemble portraits of the heroes, including Olmedo.": "´Rompecabezas de próceres´ - Juego de armar retratos de los próceres, incluyendo a Olmedo.",
+  "´Small historical escape´ - Escape room type game with locks and clues hidden in the square that recount episodes of independence.": "´Mini escape histórico´ - Juego tipo escape room con candados y pistas escondidas en la plaza que relatan episodios de la independencia.",
+
+  "Fifth journey": "Quinto recorrido",
+  "This park is one of the most important in the city and hosts the Column of the Heroes of October 9, a key date in the independence of Guayaquil. The column and the commemorative sculptures provide a perfect setting to discuss the role of Olmedo in the independence movement and in the consolidation of freedom in the region. Besides its historical importance, the park is an open space ideal for cultural and recreational activities. Its calm and majestic atmosphere invites contemplation and conversation. It is a place that connects the historical with the emotional, promoting values such as civility, identity, and local pride.": "Este parque es uno de los más importantes de la ciudad y alberga la Columna de los Próceres del 9 de octubre, fecha clave de la independencia de Guayaquil. La columna y las esculturas conmemorativas ofrecen un escenario perfecto para hablar sobre el papel de Olmedo en el movimiento independentista y en la consolidación de la libertad en la región. Además de su importancia histórica, el parque es un espacio abierto ideal para actividades culturales y recreativas. Su ambiente tranquilo y majestuoso invita a la contemplación y la conversación. Es un sitio que permite conectar lo histórico con lo emocional, promoviendo valores como el civismo, la identidad y el orgullo local.",
+  "Activity objective: To revalue civility and independence.": "Objetivo de actividad: Revalorizar el civismo y la independencia.",
+  "´Weaving memory´ - They place ribbons on a mural in the shape of a column with messages about what freedom means today.": "´Hilando memoria´ - Colocan cintas en un mural en forma de columna con mensajes sobre lo que significa la libertad hoy.",
+  "´Search for the national symbol´ - Flags, shields or hidden words are found in the park.": "´Búsqueda del símbolo patrio´ - Encuentran banderas, escudos o palabras ocultas en el parque.",
+  "´Virtual time capsule´ - They record a 30-second video with a message that should be heard in 100 years.": "´Cápsula del tiempo virtual´ - Graban un video de 30 segundos con un mensaje que debería escucharse en 100 años.",
+
+  "Sixth and final journey": "Sexto y último recorrido",
+  "This place, in addition to being a symbol of historical memory, pays tribute to the man who played a crucial role in the independence of Ecuador and left an invaluable literary legacy, reflected in his poem ´Hymn to October 9, 1820´, which celebrates the freedom and glory of the homeland. The tomb of José Joaquín de Olmedo is not only a resting place but a space that invites reflection on his immense contribution to the independence and culture of Ecuador. Olmedo´s tomb is located in an emblematic area of the cemetery, within the Route of the Founding Fathers and the Route of Writers and Artists of the Guide to Eternity.": "Este lugar, además de ser un símbolo de la memoria histórica, rinde homenaje al hombre que jugó un papel crucial en la independencia de Ecuador y dejó un legado literario invaluable, reflejado en su poema ´Himno al 9 de Octubre de 1820´, que celebra la libertad y la gloria de la patria. La tumba de José Joaquín de Olmedo no solo es un lugar de descanso, sino un espacio que invita a la reflexión sobre su inmenso aporte a la independencia y la cultura de Ecuador. La tumba de Olmedo se encuentra en una zona emblemática del cementerio, dentro de la Ruta de los Próceres y la Ruta de los Escritores y Artistas de la Guía de la Eternidad.",
+  "Activity objective: Tribute and emotional conclusion of the journey.": "Objetivo de actividad: Homenaje y cierre emotivo del recorrido.",
+  "´Offering and silence´ - A short walk with white flowers to the rhythm of an instrumental song while leaving messages on a reflection wall.": "´´Ofrenda y silencio´ - Caminata corta con flores blancas al ritmo de una canción instrumental mientras dejan mensajes en un muro de reflexión.",
+  "´Wishes to the wind´ - They write on little papers what they wish for their city and tie them to biodegradable white balloons (controlled use).": "´Deseos al viento´ - Escriben en papelitos lo que desean para su ciudad y los atan a globos blancos biodegradables (uso controlado).",
+  "´Live podcast: Olmedo today´ - They record a short interview-style episode where each person answers: ´What did I learn from Olmedo today?´.": "´Podcast en vivo: Olmedo hoy´ - Graban un breve episodio estilo entrevista donde cada uno responde: ´¿Qué aprendí de Olmedo hoy?´.",
+
+  "Discover Guayaquil through history with ´From Poet to Patriot, the Route of a Hero´, the essential tour about José Joaquín de Olmedo. The best way to get to know Olmedo and his legacy, experience history in the heart of Guayaquil.": "Descubre Guayaquil a través de la historia con ´De poeta a patriota, la ruta de un héroe´, el tour imprescindible sobre José Joaquín de Olmedo. La mejor forma de conocer a Olmedo y su legado, vive la historia en el corazón de Guayaquil.",
+
+  "Rate how your experience has been!": "Califica que tal ha sido tu experiencia!"
+
+
+}
