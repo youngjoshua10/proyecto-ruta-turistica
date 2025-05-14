@@ -6,7 +6,7 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'https://bumpy-roses-watch.loca.lt/api/',
+  baseURL: 'https://long-rabbits-like.loca.lt/api/',
   // baseURL: 'http://192.168.100.48:81/api',
   timeout: 10000,
   headers: {
