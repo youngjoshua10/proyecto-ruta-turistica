@@ -6,15 +6,15 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'https://long-rabbits-like.loca.lt/api/',
-  // baseURL: 'http://192.168.100.48:81/api',
+  baseURL: 'https://shaggy-heads-sip.loca.lt/api/',
+  // baseURL: 'http://127.0.0.1:8000/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
     'Accept': 'application/json',
     // 'X-Requested-With': 'XMLHttpRequest',
-    'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
-    'User-Agent': 'Custom-Agent', 
+    // 'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
+    // 'User-Agent': 'Custom-Agent', 
   },
 });
 
