@@ -13,8 +13,8 @@ const instance = axios.create({
     'Content-Type': 'application/json',
     'Accept': 'application/json',
     // 'X-Requested-With': 'XMLHttpRequest',
-    // 'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
-    // 'User-Agent': 'Custom-Agent', 
+    'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
+    'User-Agent': 'Custom-Agent', 
   },
 });
 
