@@ -145,7 +145,7 @@
       <v-card class="drawer-card">
         <v-layout>
 
-          <v-navigation-drawer v-model="drawer" :width="300" class="navigation-drawer drawer-background" app>
+          <v-navigation-drawer v-model="drawer" :width="380" class="navigation-drawer drawer-background" app>
             <v-list-item nav>
               <div class="d-flex align-center">
 
