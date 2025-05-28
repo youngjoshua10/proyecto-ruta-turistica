@@ -6,7 +6,7 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'https://forty-results-work.loca.lt/api/',
+  baseURL: 'https://small-trams-strive.loca.lt/api/',
   // baseURL: 'http://127.0.0.1:8000/api',
   timeout: 10000,
   headers: {
