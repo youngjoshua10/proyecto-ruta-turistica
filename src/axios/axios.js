@@ -6,7 +6,7 @@ import { pinia } from '@/main';
 // import store from '@/store/store';
 
 const instance = axios.create({
-  baseURL: 'https://shaggy-heads-sip.loca.lt/api/',
+  baseURL: 'https://forty-results-work.loca.lt/api/',
   // baseURL: 'http://127.0.0.1:8000/api',
   timeout: 10000,
   headers: {
@@ -14,7 +14,8 @@ const instance = axios.create({
     'Accept': 'application/json',
     // 'X-Requested-With': 'XMLHttpRequest',
     'bypass-tunnel-reminder': 'true', // <- este es el que LocalTunnel reconoce
-    'User-Agent': 'Custom-Agent', 
+    // 'User-Agent': 'Custom-Agent', 
+    'User-Agent': 'LT-Bypass-Agent'
   },
 });
 
